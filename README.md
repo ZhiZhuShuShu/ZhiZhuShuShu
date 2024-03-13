@@ -1,7 +1,7 @@
 ### Help me, help you  
 
 ### Donation:  
-[Stripe](https://donate.stripe.com/4gweX15Zzdhx8SIeUY)  
+[Stripe](https://donate.stripe.com/6oE6qv4Vvcdt1qg5kq)  
 
 <!--
 **ZhiZhuShuShu/ZhiZhuShuShu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
